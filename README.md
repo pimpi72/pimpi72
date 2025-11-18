@@ -5,9 +5,9 @@
 <!-- 작은 귀여운 아이콘 -->
 <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="100">
 
-### 🌸 Hi, I'm SUA
+### 🌸 Hi, I'm SUA 🌸
 
-🍀 *AI 전공 1학년 *  
+🎀 *AI 전공 1학년 * 🎀
 
 ---
 
