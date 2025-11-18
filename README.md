@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pimpi72)](https://github.com/anuraghazra/github-readme-stats)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={laluna72}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={laluna72}&theme=warm"/>
