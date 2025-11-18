@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=laluna72)](https://solved.ac/laluna72/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipimpi72anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pimpi72)](https://github.com/anuraghazra/github-readme-stats)
 
