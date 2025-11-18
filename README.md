@@ -13,7 +13,6 @@
 #### 📚 BOJ & Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=laluna72)](https://solved.ac/laluna72/)
-<br />
 <img src="http://mazandi.herokuapp.com/api?handle=laluna72&theme=warm" />
 
 ---
