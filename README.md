@@ -22,6 +22,6 @@
 <!-- 📊 GitHub Stats -->
 #### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pimpi72&show_icons=true&title_color=ff8fb1&icon_color=ffb3c6&text_color=6e6e6e)
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pimpi72&show_icons=true&title_color=ff8fb1&icon_color=ffb3c6&text_color=6e6e6e&cache_seconds=86400" />
 </div>
